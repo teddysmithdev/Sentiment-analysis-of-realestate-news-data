@@ -21,8 +21,3 @@ Currently it uses Scrapy (deployed from scraping hub) to crawl Bing search engin
       -> client - React app that displays a nice UI to see data.
       
   
-
-## Contribute
-
-If you would like to contribute to this repo or have any ideas to make this better, feel free to submit a pull request or contact me at gyaneshmalhotra [at] gmail [dot] com.
-For starters, there are some tasks available in the project tab of this repo on which you can start working on.
